@@ -42,7 +42,7 @@ Este módulo centraliza la administración de los usuarios registrados en el sis
 * Edición de Datos del Usuario: Permite modificar la información básica del usuario, como su nombre, correo o rol asignado.
 * Gestión de Permisos: Facilita la reasignación de roles según sea necesario, garantizando que cada usuario tenga acceso únicamente a los módulos correspondientes.
 * Eliminación de Usuarios: Proporciona la opción de desactivar o eliminar usuarios que ya no requieren acceso al sistema.
-<h3>Beneficios del Sistema</h3><br>
+<h3>Beneficios del Sistema</h3>
 - Optimización de Procesos: Simplifica la gestión de contratos y usuarios, eliminando tareas manuales y reduciendo tiempos.<br>
 - Accesibilidad Centralizada: Toda la información se almacena de manera organizada y está disponible desde un único sistema.<br>
 - Seguridad: Los datos están protegidos mediante roles de usuario y controles de acceso, asegurando la integridad de la información.<br>
