@@ -6,8 +6,8 @@ Jonathan Gaudencio Salvador Tolentino<br>
 <h1>Licenciatura</h1>
 Ingeniero en Sistemas Computacionales<br>
 
-Módulos del Sistema
-1. Módulo de Registro de Contratos
+<h1>Módulos del Sistema</h1>
+<h3>1. Módulo de Registro de Contratos</h3>
 Este módulo está diseñado para capturar y almacenar de manera estructurada los datos esenciales de los contratos. Entre sus principales funciones destacan:
 
 Registro de Información General: Permite ingresar el folio del contrato, la fecha en que se celebró, y una descripción detallada del mismo.
